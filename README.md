@@ -1,5 +1,4 @@
 # shorturl
-InfraCloud
 
 1. Developed REST API on Spring Boot Application 
 2. Created POST service with following Endpoint and body payload  
